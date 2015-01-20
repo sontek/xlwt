@@ -10,7 +10,7 @@ xlwt
            :target: https://coveralls.io/r/sontek/xlwt?branch=add_pytest_tox
 
 Library to create spreadsheet files compatible with MS Excel 97/2000/XP/2003 XLS
-files, on any platform, with Python 2.3 to 2.7
+files, on any platform, with Python 2.3+ and 3.3+.
 
 
 xlwt is a library for generating spreadsheet files that are compatible with
